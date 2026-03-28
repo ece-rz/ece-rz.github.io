@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Raghad's | Digital Resume</title>
+
+<style>
+body{
+font-family: Arial, sans-serif;
+background-color:#f4f6f8;
+margin:0;
+padding:0;
+}
+
+.header{
+background:#0a192f;
+color:white;
+text-align:center;
+padding:40px;
+}
+
+.section{
+background:white;
+margin:20px;
+padding:20px;
+border-radius:8px;
+box-shadow:0 2px 8px rgba(0,0,0,0.1);
+}
+
+h2{
+color:#0a192f;
+}
+
+ul{
+padding-left:20px;
+}
+
+.footer{
+text-align:center;
+padding:20px;
+color:gray;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="header">
+<h1>Rui</h1>
+<p>Electronics & Communication Engineering Student</p>
+<p>Specialization: AI & ML</p>
+</div>
+
+<div class="section">
+<h2>About Me</h2>
+<p>I am a first year B.Tech Electronics and Communication Engineering student at Gautam Buddha University. I am interested in Artificial Intelligence, Machine Learning, and electronics-based problem solving.</p>
+</div>
+
+<div class="section">
+<h2>Education</h2>
+<p>B.Tech – Electronics and Communication Engineering</p>
+<p>Gautam Buddha University (2025 – 2029)</p>
+</div>
+
+<div class="section">
+<h2>Skills</h2>
+<ul>
+<li>Python Programming</li>
+<li>Electronics</li>
+<li>Problem Solving</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>Projects</h2>
+<ul>
+<li>LPG Gas Leakage Detection System using Arduino</li>
+<li>Automatic garden watering system using Arduino nano</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>Contact</h2>
+<p>Email: raghadzakarya5@gmail.com</p>
+</div>
+
+<div class="footer">
+<p>© 2026 Raghad | Digital Resume</p>
+</div>
+
+</body>
+</html>
