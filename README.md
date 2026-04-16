@@ -4,7 +4,7 @@
    
    -  Currently learning: Python, NumPy, GitHub
    -  Building: Projects for ICT Workshop-2
-   -  Email: yourname@gmail.com
+   -  Email: raghadzakarya5@gmail.com
    
    ### Skills
    `Python` `NumPy`
